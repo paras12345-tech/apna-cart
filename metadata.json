@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix ApnaCart – Online Fashion Marketplace",
+  "description": "Discover the latest trends in Indian and Western fashion, ethnic wear, footwear, and beauty on ApnaCart. Your Style. Your Way.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
